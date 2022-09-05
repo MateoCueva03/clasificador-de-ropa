@@ -1,4 +1,9 @@
-# Clasificador-de-ropa
+# Clasificación-de-imágenes-de-ropa
+Video de explicación técnica del código y la funcionalidad:
+
+Video de manual de usuario:
+
+Informe:
 
 ---
 ### Integrantes
