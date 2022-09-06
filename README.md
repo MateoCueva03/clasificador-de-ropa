@@ -1,9 +1,9 @@
 # Clasificación-de-imágenes-de-ropa
-Video de explicación técnica del código y la funcionalidad:
+Explicación del código:
+https://youtu.be/S3uE-0nTmUs
 
-Video de manual de usuario:
-
-Informe:
+Manual de usuario:
+https://youtu.be/KCHHt_9PvLk
 
 ---
 ### Integrantes
